@@ -75,7 +75,6 @@ SFAF/DerivedDataCache/*
 
 
 # Initial Map
-SFAF/Content/TopDown/*
 SFAF/Content/Cursor/*
 SFAF/Content/__ExternalActors__/*
 SFAF/Content/__ExternalObjects__/*
